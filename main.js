@@ -1,4 +1,5 @@
 // Get modal element
+// draggable
 document.addEventListener ('DOMContentLoaded', function () {
   (function init () {
     const modal = document.getElementById ('simpleModal');
